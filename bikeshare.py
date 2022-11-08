@@ -21,7 +21,7 @@ def check_answer(answer,answers=('y','n')):
         answer = ("Sorry, your input is wrong, please try again:")
 
     return check_answer
-
+# def function
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.

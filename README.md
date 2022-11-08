@@ -4,7 +4,7 @@
 Data filter by city, month, duration, etc.
 
 ### Project Title
-Bikeshare
+Bikeshare data
 
 ### Description
 Analyze bikeshare data of different city
@@ -16,3 +16,4 @@ washington.csv
 
 ### Credits
 https://knowledge.udacity.com/questions/291072
+https://knowledge.udacity.com/questions/678458

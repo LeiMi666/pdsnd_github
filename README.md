@@ -7,7 +7,7 @@ Include the date you created this project and README file.
 Replace the Project Title
 
 ### Description
-Describe what your project is about and what it does
+Analyze bikeshare data of different city
 
 ### Files used
 chicago.csv
